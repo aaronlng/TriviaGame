@@ -1,0 +1,26 @@
+body {
+    background-image: url("../images/dundermifflinpainting.jpg");
+    background-repeat: repeat;
+    background-size: auto;
+}
+
+.main-content {
+    margin: auto;
+    margin-top: 60px;
+    width: 66%;
+    height: 95%;
+    background-color: gray;
+    text-align: center;
+}
+
+h1 { 
+    padding-top: 50px;
+    font-size: 64px;
+    letter-spacing: 4px;
+    margin-top: 20px;
+}
+
+#timerLine {
+    margin-top: 90px;
+    font-size: 24px;
+}
