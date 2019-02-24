@@ -36,7 +36,17 @@ h1 {
     margin-top: 20px;
 }
 
-#timerLine {
-    margin-top: 90px;
+h2 {
     font-size: 24px;
+}
+
+#startOverBtn {
+    margin: auto;
+    margin-top: 20px;
+}
+
+#startOverBtn:hover {
+    background-color: navy;
+    color: white;
+    border: 2px solid white;
 }
